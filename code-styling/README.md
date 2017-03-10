@@ -36,7 +36,7 @@ Every opening tag must have a closing tag!
 
 >**Note:**
 
-> - There are a few exceptions that can be found [here](https://www.quora.com/Which-HTML-tags-are-self-closing/answer/Michael-Dick?srid=XmGB)
+> - There are a few exceptions that can be found [here](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element)
 
 ----------
 
@@ -61,9 +61,9 @@ CSS
 
 **Embedding CSS**
 
-CSS may be embedded directly into the HTML file if it appears between `script` tags:
+CSS may be embedded directly into the HTML file if it appears between `style` tags:
 
-`<script></script>`
+`<style></style>`
 
 **Linking to CSS**
 
@@ -81,14 +81,14 @@ Use the self closing `link` tag
 
 Proper CSS declarations:
 
-    selector-a {
-    	property-a: value-a;
-    	property-a: value-a;
+    .medium-box {
+    	background-color: blue;
+    	padding: 20px 10px;
     }
 
-    selector-b {
-    	property-c: value-c;
-    	property-d: value-d;
+    .small-box {
+    	background-color: green;
+    	padding: 10px 5px;
     }
 
    >**Note**
@@ -123,7 +123,6 @@ Using:
 
 >- The variable name will always be camelCase
 >- The variables will appear at the very top of the stylesheet, before any declarations are made
->- They are in alphabetical order, like the selectors and properties
 >- All variable names start with a `$` to indicate to the stylesheet that it is a variable name
 
 **Mixins** (lets you make groups of CSS declarations that you want to reuse throughout your site) think like a bigger variable!

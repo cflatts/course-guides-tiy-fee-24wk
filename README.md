@@ -7,6 +7,7 @@ This repo contains instructions and helper files for [The Iron Yard Houston]
 
 ## Sections
 
-- [code-styling](code-styling) - How to format your HTML and CSS code and instructions on how to set up automatic JavaScript linting.
+- [code-styling](code-styling) - How to format your HTML and CSS code and instructions
+  on how to set up automatic JavaScript linting.
 - [file-structure](file-structure) - Basic file structure for homeworks and assignments.
 - [git-instructions](git-instructions) - Instructions for how to use git when working with a project.

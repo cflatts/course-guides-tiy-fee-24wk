@@ -14,7 +14,7 @@ This is boilerplate for an intro to JS level project:
 
 |---index.html
 |---.editorconfig
-|---.eslintrc.json
+|---.eslintrc.js
 |---.gitignore
 ```
 

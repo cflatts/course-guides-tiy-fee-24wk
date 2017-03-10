@@ -9,7 +9,7 @@ This is boilerplate for an intro to JS level project:
 |---js
 	|---[FILENAME.js]
 
-|---styles
+|---css
 	|---[FILENAME.css]
 
 |---index.html
@@ -27,5 +27,3 @@ This is boilerplate for an intro to JS level project:
 >- The `[FILENAME].css`should be `styles.css` if you only have one
 
 >- This is the **MINIMUM** file structure, feel free to include SCSS as well.
-
->- Follow the other rules for [code styling](https://github.com/cflatts/code-styling)

@@ -1,0 +1,5 @@
+# git diffs
+*.diff
+
+# SCSS tmp folder
+.sass-cache

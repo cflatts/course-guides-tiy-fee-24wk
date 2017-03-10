@@ -3,16 +3,15 @@
 This is the boilerplate for any basic HTML project:
 
 ```
-[ROOT DIRECTORY NAME]
-|
-|---css
-	|---[FILENAME.css]
-|---js
-	|---[FILENAME.js]
-|---.editorconfig
-|---.eslintrc.js
-|---.gitignore
-|---index.html
+|-- my-project-name
+|   |-- css
+|   |   |-- [FILENAME.css]
+|   |-- js
+|   |   |-- [FILENAME.js]
+|   |-- .editorconfig
+|   |-- .eslintrc.js
+|   |-- .gitignore
+|   |-- index.html
 ```
 
 **Notes:**
